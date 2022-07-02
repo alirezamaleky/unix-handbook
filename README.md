@@ -12,11 +12,11 @@ brew install vim
 ## Apps
 
 ```bash
+brew install whatsapp telegram skype
 brew install visual-studio-code
 brew install google-chrome
 brew install anydesk
 brew install postman
-brew install skype
 ```
 
 ### NodeJS
