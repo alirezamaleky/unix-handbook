@@ -19,7 +19,7 @@ brew install vim
 ```bash
 brew install whatsapp skype
 brew install visual-studio-code
-brew install google-chrome firefox
+brew install chromium firefox
 brew install anydesk
 brew install kap
 brew install postman
