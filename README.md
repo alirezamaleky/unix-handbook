@@ -3,19 +3,25 @@
 ## Packages
 
 ```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+```bash
 brew install unar
 brew install wget git gitui
-brew install tmux htop neofetch
+brew install tmux htop
+brew install neofetch stats
 brew install vim
 ```
 
 ## Apps
 
 ```bash
-brew install whatsapp telegram skype
+brew install whatsapp skype
 brew install visual-studio-code
-brew install google-chrome
+brew install google-chrome firefox
 brew install anydesk
+brew install kap
 brew install postman
 ```
 
