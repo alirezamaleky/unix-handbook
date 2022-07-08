@@ -8,7 +8,8 @@
 
 ```bash
 brew install unar
-brew install wget git gitui
+brew install wget
+brew install git gitui sourcetree
 brew install tmux htop
 brew install neofetch stats
 brew install vim
