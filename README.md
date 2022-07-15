@@ -34,7 +34,7 @@ brew install nvm yarn
 echo 'export NVM_DIR=~/.nvm' >> ~/.zshrc
 echo 'source $(brew --prefix nvm)/nvm.sh' >> ~/.zshrc
 nvm install --lts
-npm i -g npm autocannon serve lerna yalc typescript eslint prettier jest vite next
+npm i -g npm serve lerna yalc typescript eslint prettier jest vite next
 ```
 
 ## Config
