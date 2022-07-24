@@ -34,7 +34,14 @@ brew install nvm yarn
 echo 'export NVM_DIR=~/.nvm' >> ~/.zshrc
 echo 'source $(brew --prefix nvm)/nvm.sh' >> ~/.zshrc
 nvm install --lts
-npm i -g npm loadtest serve lerna yalc typescript eslint prettier jest vite next
+npm i -g npm pm2 loadtest serve lerna yalc typescript eslint prettier jest vite next
+```
+
+### Docker
+
+```bash
+brew install --cask docker
+brew install docker-compose
 ```
 
 ## Config
